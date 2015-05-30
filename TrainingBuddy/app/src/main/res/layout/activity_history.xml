@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="mcoppola.trainingbuddy.HomeScreen">
+
+    <ListView android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:divider="#0000FF"
+        android:dividerHeight="4dp"
+        android:footerDividersEnabled="true"
+        android:id="@+id/goalListView"
+        android:choiceMode="singleChoice">
+    </ListView>
+
+</LinearLayout>

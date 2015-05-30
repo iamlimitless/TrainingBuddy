@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TrainingBuddy</string>
+    <string name="title_activity_home_screen">Home</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_history">History</string>
 </resources>

@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mcoppola.trainingbuddy.HomeScreen">
+    <item android:id="@+id/action_historyNavBtn" android:title="History" android:orderInCategory="50" app:showAsAction="always"
+        android:icon="@mipmap/test_history_nav" />
+    <item android:id="@+id/action_addGoal" android:title="Add Goal" android:orderInCategory="50" app:showAsAction="always"
+        android:icon="@mipmap/test_add_button" />
+</menu>
